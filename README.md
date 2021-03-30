@@ -7,7 +7,7 @@
 - 年龄20
 - 爱好：搞事
 - 环境工程-大二
-![example](https://img.shields.io/badge/example-v1.0-red.svg)
+![环境工程-大二](https://img.shields.io/badge/example-v1.0-red.svg)
 
 <!---
 envchen/envchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
