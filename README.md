@@ -7,10 +7,12 @@
 - 年龄20
 - 爱好：搞事
 - 环境工程-大二
-- 代码水平 ![img](file:///C:\Users\F117\AppData\Local\Temp\SGPicFaceTpBq\14736\38E11341.png)
+- 代码水平 
 - ![环境工程-大二](https://img.shields.io/badge/example-v1.0-red.svg)
 
-[![github](https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg)](https://github.com/snowdreams1006)	
+--------样式仿照仅学习使用------------------
+
+[![github](https://img.shields.io/badge/github-snowdreams1006-brightgreen.svg)](envchen.xyz)
 [![wechat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg)](http://weixin.qq.com/r/cy5CWvvE5Kabrb8593th)	
 [![慕课网](https://img.shields.io/badge/%E6%85%95%E8%AF%BE%E7%BD%91-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg)](https://www.imooc.com/u/5224488/articles)	
 [![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-brightgreen.svg)](https://www.jianshu.com/u/577b0d76ab87)	
