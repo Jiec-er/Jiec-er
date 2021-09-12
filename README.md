@@ -1,18 +1,19 @@
-- 👋 Hi, I’m @envchen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Name:GJ
-- 年龄20
-- 爱好：搞事
-- 环境工程-大二
-- 代码水平 -很糕
-- 代码五分钟，划水两小时
-- ![环境工程-大二](https://img.shields.io/badge/example-v1.0-red.svg)
-
-
-<!---
-envchen/envchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Name：Chen GuangJie
+- Age: 21
+- Sex:  ♂
+- Location: Guangdong
+- Hobby：Do something unconventional :v:
+  - Code:bookmark_tabs:
+  - Tea:tea:
+  - Driver:car:
+  - Mojito :beers:
+  - Games:video_game:
+- Major: Environmental Engineering 
+- Level: Code five minutes, paddle two hour:stuck_out_tongue_winking_eye:
+- Description::+1: A handsome boy,:black_medium_square::black_medium_square::black_medium_square::black_medium_square:
+- Some skills:
+- ![](https://img.shields.io/badge/Java-1.8+-red)![](https://img.shields.io/badge/MicroPython~Python-3.8+-blueviolet)
+- ![](https://img.shields.io/badge/QT-5-blue)![](https://img.shields.io/badge/Vue-3-green)
+- ![](https://img.shields.io/badge/CAD-2010-green) ![](https://img.shields.io/badge/PLC-Modbus-inactive)
+---
+ememem... 不写了，舛舛
