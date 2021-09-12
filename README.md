@@ -16,4 +16,4 @@
 - ![](https://img.shields.io/badge/QT-5-blue)![](https://img.shields.io/badge/Vue-3-green)
 - ![](https://img.shields.io/badge/CAD-2010-green) ![](https://img.shields.io/badge/PLC-Modbus-inactive)
 ---
-ememem... 不写了，好好学习，天天摸鱼，舛舛:stuck_out_tongue_winking_eye:
+ememem... 不写了，好好学习，天天划水，舛舛:stuck_out_tongue_winking_eye:
