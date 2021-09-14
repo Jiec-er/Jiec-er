@@ -1,4 +1,4 @@
-- Name：Chen GuangJie
+- Name：Chen GuangJie(GJ)
 - Age: 21
 - Sex:  ♂
 - Location: Guangdong
@@ -16,4 +16,6 @@
 - ![](https://img.shields.io/badge/QT-5-blue)![](https://img.shields.io/badge/Vue-3-green)
 - ![](https://img.shields.io/badge/CAD-2010-green) ![](https://img.shields.io/badge/PLC-Modbus-inactive)
 ---
-ememem... 不写了，好好肝，舛舛:stuck_out_tongue_winking_eye:
+- 显然，这个维度所描述的世界观更让我舒服自在，有过不舍，但有些事情总要去了结。
+- 再次回来，我所有的热爱都将倾与你。
+- 2021/9/14
