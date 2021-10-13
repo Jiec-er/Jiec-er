@@ -16,5 +16,5 @@
 - ![](https://img.shields.io/badge/QT-5-blue)![](https://img.shields.io/badge/Vue-3-green)
 - ![](https://img.shields.io/badge/CAD-2010-green) ![](https://img.shields.io/badge/PLC-Modbus-inactive)
 ---
-- 显然，这个维度所描述的世界观更让我舒服自在，有过不舍，但有些事情总要去了结。
+- ？？？
 - 2021/9/14
