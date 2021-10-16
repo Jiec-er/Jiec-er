@@ -13,8 +13,7 @@
 - Description::+1: A handsome boy,:black_medium_square::black_medium_square::black_medium_square::black_medium_square:
 - Some skills:
 - ![](https://img.shields.io/badge/Java-1.8+-red)![](https://img.shields.io/badge/MicroPython~Python-3.8+-blueviolet)
-- ![](https://img.shields.io/badge/QT-5-blue)![](https://img.shields.io/badge/Vue-3-green)
-- ![](https://img.shields.io/badge/CAD-2010-green) ![](https://img.shields.io/badge/PLC-Modbus-inactive)
+- ![](https://img.shields.io/badge/QT-5-blue)
 ---
 - 人呢？？？
 - 2021/9/14
