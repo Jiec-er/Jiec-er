@@ -12,8 +12,7 @@
 - Level: Code five minutes, paddle two hour:stuck_out_tongue_winking_eye:
 - Description::+1: A handsome boy,:black_medium_square::black_medium_square::black_medium_square::black_medium_square:
 - Some skills:
-- ![](https://img.shields.io/badge/Java-1.8+-red)![](https://img.shields.io/badge/MicroPython~Python-3.8+-blueviolet)
-- ![](https://img.shields.io/badge/QT-5-blue)
+- 初恋：Java
 ---
 - 人呢？？？
 - 2021/9/14
