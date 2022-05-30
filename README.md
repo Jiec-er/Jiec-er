@@ -2,17 +2,5 @@
 - Age: 21
 - Sex:  ♂
 - Location: Guangdong
-- Hobby：Do something unconventional :v:
-  - Code:bookmark_tabs:
-  - Tea:tea:
-  - Driver:car:
-  - Mojito :beers:
-  - Games:video_game:
-- Major: Environmental Engineering :leaves:
-- Level: Code five minutes, paddle two hour:stuck_out_tongue_winking_eye:
-- Description::+1: A handsome boy,:black_medium_square::black_medium_square::black_medium_square::black_medium_square:
-- Some skills:
-- 初恋：Java
----
-- 人呢？？？
-- 2021/9/14
+----
+SEE YOU AGAIN
