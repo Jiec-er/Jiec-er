@@ -1,5 +1,5 @@
 - Name：Chen GuangJie(GJ)
-- Age: 21
+- Age: 22
 - Sex:  ♂
 - Location: Guangdong
 ----
